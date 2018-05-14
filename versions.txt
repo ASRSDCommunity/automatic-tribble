@@ -1,0 +1,11 @@
+Official versions for ASRSD:
+English ( English, http://rebot.me/asrsd )
+
+Community-maintained versions of ASRSD:
+
+Unofficial versions of ASRSD:
+
+Planned official versions for ASRSD: 
+01000010 01101001 01101110 01100001 01110010 01111001 (Binary)
+Deutsch (German)
+b451c l3375p34k (Basic Leetspeak)
