@@ -1,0 +1,13 @@
+Follow this criteria on your ASRSD to be community-maintained!
+
+Question: What does ASRSD mean?
+Answer: Automated Self-Regulating Speech Droid
+
+Question: what are your/are there other/what are the other languages
+Answer: (anything, if it dosen't contain https://github.com/ASRSDCommunity/automatic-tribble/blob/master/versions.txt it is invalid)
+
+Question: When is your birthday?
+Answer: (any date you want)
+
+Question: I got an error
+Answer: If it was a Computational Error, Error, 404 Not Found or 404 Error code spat out by ASRSD, it means the question you asked is unanswered. We have sent it to the Knowledge database to be surveyed.
