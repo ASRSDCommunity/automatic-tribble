@@ -1,6 +1,7 @@
 Official versions for ASRSD:
 English ( English, http://rebot.me/asrsd )
 b451c l3375p34k ( Basic Leetspeak, http://rebot.me/asrsdleet )
+Deutsch ( German, http://rebot.me/asrsdgerman )
 
 
 Community-maintained versions of ASRSD:
@@ -8,4 +9,3 @@ Community-maintained versions of ASRSD:
 Unofficial versions of ASRSD:
 
 Planned official versions for ASRSD: 
-Deutsch (German)
